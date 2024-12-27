@@ -7,7 +7,3 @@
 - 😄 Pronouns: She/Her  
 - ⚡ Fun fact: I believe every dataset tells a story — and my superpower is bringing that story to life with data tools and creativity!  
 
-<!---
-DA-Lavanya/DA-Lavanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
